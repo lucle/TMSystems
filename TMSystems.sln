@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMSystems.Web", "TMSystems\TMSystems.Web.csproj", "{17A3C90A-12FD-4714-96A1-893335C6FA00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TMSystems.Web", "TMSystems.Web\TMSystems.Web.csproj", "{17A3C90A-12FD-4714-96A1-893335C6FA00}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMSystems.DomainModel", "TMSystems.DomainModel\TMSystems.DomainModel.csproj", "{BFC075C8-1CFC-4460-AB21-45A28C5DCB03}"
 EndProject
