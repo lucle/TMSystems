@@ -4,4 +4,13 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Logging\" />
+    <Folder Include="Contraints\" />
+    <Folder Include="ValueProviders\" />
+    <Folder Include="Theming\" />
+    <Folder Include="TagHelpers\" />
+    <Folder Include="Protection\" />
+  </ItemGroup>
+
 </Project>
